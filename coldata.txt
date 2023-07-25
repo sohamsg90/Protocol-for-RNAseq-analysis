@@ -1,0 +1,13 @@
+	condition	type
+CT-1	CT	single-end
+CT-2	CT	single-end
+CT-3	CT	single-end
+HL-1	HL	single-end
+HL-2	HL	single-end
+HL-3	HL	single-end
+HS-1	HS	single-end
+HS-2	HS	single-end
+HS-3	HS	single-end
+HL_HS-1	HL_HS	single-end
+HL_HS-2	HL_HS	single-end
+HL_HS-3	HL_HS	single-end

@@ -1,0 +1,12 @@
+STAR_Alignment_1	CT-1	CT
+STAR_Alignment_2	CT-2	CT
+STAR_Alignment_3	CT-3	CT
+STAR_Alignment_4	HL-1	HL
+STAR_Alignment_5	HL-2	HL
+STAR_Alignment_6	HL-3	HL
+STAR_Alignment_7	HS-1	HS
+STAR_Alignment_8	HS-2	HS
+STAR_Alignment_9	HS-3	HS
+STAR_Alignment_10	HL_HS-1	HL_HS
+STAR_Alignment_11	HL_HS-2	HL_HS
+STAR_Alignment_12	HL_HS-3	HL_HS
